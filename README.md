@@ -15,7 +15,7 @@ Live Demo
 - Vercel (for deployment)
 
 📂 Folder Structure
-multi-theme-switcher/
+multi-theme-switcher/<br>
 ├── public/
 ├── src/
 │ ├── components/
